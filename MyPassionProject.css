@@ -3,7 +3,9 @@
 }
 
 body {
-    background:#e6e6fa;
+    background:white;
+    font-family: 'Amatic SC', cursive; 
+    font-size: 28px; 
 }
 
 h1 {
@@ -14,7 +16,7 @@ li {
     list-style:none;
     display:inline;
     padding:10px;
-    text-align:left;
+    text-align:center;
 }
 
 li a {
@@ -22,7 +24,7 @@ li a {
 }
 
 .pictures {
-    margin:0 auto;
+    margin:1 auto;
     text-align:center;
     display:inline-block;
 }
@@ -40,5 +42,5 @@ li a {
 }
 
 .pinktext {
-    color:pink;
+    color:#ADD8E6;
 }
